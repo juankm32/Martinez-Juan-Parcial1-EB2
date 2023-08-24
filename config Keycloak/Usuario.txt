@@ -6,6 +6,6 @@ Creacion de rol nivel reino: USER
 Usuario creado para prueba con respectivo rol: usertp
 Contraseña del usuario usertpse : 123456
 Usuario creado sin rol para comprobar denegacion: alterno
-Contraseña del usuario alterno
+Contraseña del usuario alterno: 123456
 
 path para ingreso: http://localhost:8090/bills/all
